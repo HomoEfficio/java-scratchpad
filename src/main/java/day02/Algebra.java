@@ -11,7 +11,7 @@ public class Algebra {
         return a + b;
     }
 
-    public int subtract(int m, int n) {
-        return m - n;
+    public int subtract(int a, int n) {
+        return a - n;
     }
 }
