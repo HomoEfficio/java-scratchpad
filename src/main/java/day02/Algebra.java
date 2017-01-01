@@ -6,12 +6,12 @@ package day02;
  */
 public class Algebra {
 
-    // add 2 number
+    // add 2 numbers
     public int add(int a, int b) {
         return a + b;
     }
 
-    // subtract 2 number
+    // subtract 2 numbers
     public int subtract(int a, int b) {
         return a - b;
     }
