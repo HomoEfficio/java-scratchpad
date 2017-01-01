@@ -7,8 +7,8 @@ package day02;
 public class Algebra {
 
     // add 2 numbers
-    public int add(int a, int b) {
-        return a + b;
+    public int add(int m, int n) {
+        return m + n;
     }
 
     // subtract 2 numbers
