@@ -14,6 +14,7 @@ public class Algebra {
 
     // subtract 2 numbers
     public int subtract(int a, int b) {
-        return a - b;
+        int result = a - b;
+        return result;
     }
 }
