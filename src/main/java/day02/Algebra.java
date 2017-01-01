@@ -6,7 +6,7 @@ package day02;
  */
 public class Algebra {
 
-    // add 2 numbers
+    // add 2 numbers - omw
     public int add(int a, int b) {
         int result = a + b;
         return result;
