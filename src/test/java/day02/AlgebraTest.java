@@ -16,4 +16,9 @@ public class AlgebraTest {
         Algebra algebra = new Algebra();
         assertThat("1 + 2 = 3", algebra.add(1, 2), is(equalTo(3)));
     }
+
+    @Test public void subtractTest() {
+        Algebra algebra = new Algebra();
+        assertThat("3 - 1 = 2", algebra.subtract(3, 1), is(equalTo(2)));
+    }
 }
