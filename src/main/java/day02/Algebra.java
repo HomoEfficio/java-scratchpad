@@ -9,4 +9,8 @@ public class Algebra {
     public int subtract(int c, int d) {
         return c - d;
     }
+
+    public int add(int a, int b) {
+        return a + b;
+    }
 }
