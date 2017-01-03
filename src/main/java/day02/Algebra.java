@@ -10,7 +10,7 @@ public class Algebra {
         return c - d;
     }
 
-    public int add(int x, int y) {
-        return x + y;
+    public int add(int m, int n) {
+        return m + n;
     }
 }
