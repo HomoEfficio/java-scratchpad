@@ -13,8 +13,8 @@ public class Algebra {
     }
 
     // subtract 2 numbers
-    public int subtract(int a, int b) {
-        int result = a - b;
+    public int subtract(int m, int n) {
+        int result = m - n;
         return result;
     }
 }
